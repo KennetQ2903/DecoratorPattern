@@ -1,3 +1,5 @@
+# Plantilla
+![Plantilla](public/decoratorTemplate.webp)
 # Diagrama de clases
 ![Diagrama de clases](public/DecoratorPattern.png)
 # Diagrama de secuencia
